@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: My Data science
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -147,7 +147,7 @@ staticman:
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 
-# Character used to separate site title and description in HTML document title
+# Character used to separate site and description in HTML document title
 # and RSS feed title
 title-separator: "-"
 
