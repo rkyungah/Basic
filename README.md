@@ -4,4 +4,4 @@
 *  기본 파일 운용법
 *  기본 데이터 전처리
 
-* [A](Basic.github.io/A/INFO.md)
+* [A](./A/INFO.md)
