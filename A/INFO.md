@@ -4,6 +4,6 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 <br>
 <br>
 
-**[정규표현식RegEx]**(./정규표현식RegEx.pdf)
+1) 정규표현식 <br>
+[정규표현식RegEx](./A/정규표현식RegEx.pdf)
 
-[Markdown-Basics](../Sublimetext/docs/101_Markdown-Basics.md)
