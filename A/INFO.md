@@ -4,4 +4,4 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 <br>
 <br>
 
-[정규표현식(RegEx)] (Basic.github.io/A/정규표현식RegEx.pdf)
+[정규표현식(RegEx)] (./정규표현식RegEx.pdf)
