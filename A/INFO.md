@@ -7,6 +7,7 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 1) 정규표현식 <br>
 [[정규표현식RegEx]](./정규표현식RegEx.pdf)  <br>
 2) Numpy <br>
-[[Numpy 배열 다루기]](./Numpy.pdf)
+[[Numpy 배열 다루기]](./Numpy.pdf) <br>
+[[Numpy 연산자 및 기능 다루기]](./Numpy2.pdf)
 
 
