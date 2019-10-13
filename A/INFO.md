@@ -10,6 +10,7 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 [[Numpy 배열 다루기]](./Numpy.pdf) <br>
 [[Numpy 연산자 및 기능 다루기]](./Numpy2.pdf) <br>
 3) Pandas <br>
-[[Pandas 기초]](./Pandas1.pdf)
+[[Pandas 기초]](./Pandas1.pdf) <br>
+[[Pandas 연산 및 기초 기능 다루기]](./Pandas2.pdf)
 
 
