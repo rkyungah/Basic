@@ -5,4 +5,5 @@
 *  기본 파일 운용법
 *  기본 데이터 전처리
 
-### <Section A Link> [[베이직 문법 정리]](./A/INFO.md)
+### to Section A 
+[[Link 베이직 문법 정리]](./A/INFO.md)
