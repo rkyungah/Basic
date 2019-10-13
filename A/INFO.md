@@ -9,5 +9,8 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 2) Numpy <br>
 [[Numpy 배열 다루기]](./Numpy.pdf) <br>
 [[Numpy 연산자 및 기능 다루기]](./Numpy2.pdf)
+<br>
+3) Pandas
+[[Pandas 기초]](./Pandas1.pdf)
 
 
