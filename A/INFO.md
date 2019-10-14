@@ -5,15 +5,15 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 <br>
 
 1) 정규표현식 <br>
-[[정규표현식RegEx]](./정규표현식RegEx.pdf)  <br>
+[[정규표현식RegEx]](./정규표현식RegEx.pdf)  <br><br>
 2) Numpy <br>
 [[Numpy 배열 다루기]](./Numpy.pdf) <br>
-[[Numpy 연산자 및 기능 다루기]](./Numpy2.pdf) <br>
+[[Numpy 연산자 및 기능 다루기]](./Numpy2.pdf) <br><br>
 3) Pandas <br>
 [[Pandas 기초]](./Pandas1.pdf) <br>
 [[Pandas 연산 및 기초 기능 다루기]](./Pandas2.pdf) <br>
-[[Pandas Grouping]](./Pandas3,4_Grouping.pdf) <br>
-4) Plot 
+[[Pandas Grouping]](./Pandas3,4_Grouping.pdf) <br><br>
+4) Plot <br>
 [[matplotlib 시각화 코드]](./matplotlib.pdf) <br>
 
 
