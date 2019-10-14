@@ -13,6 +13,8 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 [[Pandas 기초]](./Pandas1.pdf) <br>
 [[Pandas 연산 및 기초 기능 다루기]](./Pandas2.pdf) <br>
 [[Pandas Grouping]](./Pandas3,4_Grouping.pdf) <br>
+4) Plot 
+[[matplotlib 시각화 코드]](./matplotlib.pdf) <br>
 
 
 
