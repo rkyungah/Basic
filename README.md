@@ -7,6 +7,8 @@
   *  기본 모듈 사용
   *  시각화
 
-#### to Section A 
-*****
-[[Link 베이직 문법 정리]](./A/INFO.md)
+#### Section A
+
+Link: [SEC A][link]
+[Section A]: (./A/INFO.md)
+[[Link 베이직 문법 정리]]
