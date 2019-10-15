@@ -15,7 +15,8 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 [[Pandas Grouping]](./Pandas3,4_Grouping.pdf) <br><br>
 4) Plot <br>
 [[matplotlib 시각화 코드]](./matplotlib.pdf) <br>
-[[matplotlib 시각화 코드2]](./matplotlib.pdf) <br> <br> 
+[[matplotlib 시각화 코드2]](./matplotlib.pdf) <br> 
+[[엑셀 시각화 - 그래프 삽입]](./plot_in_exel.pdf) <br> <br> 
 4-1) Plot 실습 <br>
 [[네이버 영화 평점 TOP10 시각화 Quiz]](./영화평점TOP10시각화.pdf) <br>
 
