@@ -10,5 +10,5 @@
 #### Section A
 
 Link: [SEC A][link]
-[Section A]: (./A/INFO.md)
+[Section A]: ./A/INFO.md
 [[Link 베이직 문법 정리]]
