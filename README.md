@@ -17,4 +17,4 @@ Link: [link]
 #### Public data 
 <br>
 Link: [link]
-[Section Public]: [[공공데이터 분석]](./public/
+[Section Public]: [[공공데이터 분석]](./public/public_data.md)
