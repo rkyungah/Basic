@@ -15,9 +15,9 @@ Link: [link]
 <br>
 
 #### Public data 
-<br>
+
 Link: [link]
-[Section Public]: [[공공데이터 분석]](./A/INFO.md) 
+[Section Public]: [[공공데이터 분석]](./public/public_data.md) 
 <br>
 
 #### Map
