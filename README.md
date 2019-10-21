@@ -23,7 +23,7 @@ Link: [link]
 #### Map
 
 Link: [link]
-[Section Map]: [[매핑 모듈]](./map/.md) 
+[Section Map]: [[매핑 모듈]](./map/README.md) 
 <br>
 <br>
 ##  B
@@ -32,5 +32,5 @@ Link: [link]
 #### NLP
 
 Link: [link]
-[Section Map]: [[자연어 처리]](./B/NLP/README.md) 
+[Section NLP]: [[자연어 처리]](./B/NLP/README.md) 
 <br>
