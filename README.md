@@ -23,7 +23,7 @@ Link: [link]
 #### Map
 
 Link: [link]
-[Section Map]: [[매핑 모듈]](./map/README.md) 
+[Section Map]: [[매핑 모듈]](./A/map/README.md) 
 <br>
 <br>
 ##  B
