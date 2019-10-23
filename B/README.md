@@ -5,5 +5,8 @@ Link: [link]
 [NLP]: [[wordcloud]](./NLP/wordcloud.pdf) 
 <br> 
 Link: [link]
-[NLP]: [[KoNLP - Kkma, hannanum]](./NLP/KoNLP1.pdf) 
+[NLP]: [[KoNLP - 형태소 분리]](./NLP/KoNLP1.pdf) 
+<br> 
+Link: [link]
+[NLP]: [[KoNLP - Kkma, hannanum]](./NLP/KoNLP2.pdf) 
 <br> 
