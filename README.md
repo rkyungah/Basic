@@ -32,5 +32,5 @@ Link: [link]
 #### NLP
 
 Link: [link]
-[Section NLP]: [[자연어 처리]](./B/NLP/README.md) 
+[Section NLP]: [[자연어 처리]](./B/README.md) 
 <br> <br>
