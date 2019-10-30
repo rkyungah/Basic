@@ -28,6 +28,8 @@ Link: [link]
 <br>
 ###  B
 자연어처리를 비롯한 고급 데이터 처리 기법과 CNN, RNN 등의 머신러닝 딥러닝 과정과 예제를 정리.
+<br>
+
 Link: [link]
 [Section NLP]: [[SEC B]](./B/README.md) 
 
