@@ -29,7 +29,8 @@ Link: [link]
 ###  B
 자연어처리를 비롯한 고급 데이터 처리 기법과 CNN, RNN 등의 머신러닝 딥러닝 과정과 예제를 정리.
 
-1. 자연어 처리 (NLP, KoNLP)
+<p>1. 자연어 처리 (NLP, KoNLP)
 <br>
 2. ML (Machine Learning)
-3. DL (Deep Learning)
+ <br>
+3. DL (Deep Learning) </p>
