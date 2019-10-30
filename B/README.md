@@ -2,13 +2,13 @@
 <p> 1) 자연어처리 NLP. <p/>
 <br>
 Link: [link]
-[NLP]: [[wordcloud]](./NLP/wordcloud.pdf) 
+[NLP]: [[wordcloud]](./B/NLP/wordcloud.pdf) 
 <br> 
 Link: [link]
-[NLP]: [[KoNLP - 형태소 분리]](./NLP/KoNLP1.pdf) 
+[NLP]: [[KoNLP - 형태소 분리]](./B/NLP/KoNLP1.pdf) 
 <br> 
 Link: [link]
-[NLP]: [[KoNLP - Kkma, hannanum]](./NLP/KoNLP2.pdf) 
+[NLP]: [[KoNLP - Kkma, hannanum]](./B/NLP/KoNLP2.pdf) 
 <br> 
 
 ## ML
