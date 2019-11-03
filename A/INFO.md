@@ -22,6 +22,10 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
 1. [[네이버 영화 평점 TOP10 시각화 Quiz]](./영화평점TOP10시각화.pdf) <br> <br> <br>
 <br>
 
+#### 5) Class <br>
+1. [[클래스와 인스턴스]](./Class.pdf) <br> 
+
+
 ## DB 용어 정리 
 
 <br> <br>
