@@ -45,4 +45,4 @@ Link: [link]
 ## MongoDB
 <br>
 Link: [link]
-[Section MongoDB]: [[MongoDB]](./MongoDB/INFO.md) 
+[Section MongoDB]: [[MongoDB]](./MongoDB) 
