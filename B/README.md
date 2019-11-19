@@ -21,7 +21,6 @@ Link: [link]
 ### 예제 ###
 
 <p> 1) MNIST </p>
-<br>
 
 1. [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb) <br>
 2. [`[TF_MNIST]`](./B/ML/TF_MNIST.ipynb)
