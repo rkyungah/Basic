@@ -21,8 +21,10 @@ Link: [link]
 
 
 ### 예제 ###
+
 <p> 1) MNIST </p>
 <br>
+
 Link: [link]
 [Section DL]: [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb)
 
