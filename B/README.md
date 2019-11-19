@@ -1,9 +1,9 @@
 ## NLP
-<p> 1) 자연어처리 NLP <p/> <br>
+<p> 1) 자연어처리 NLP </p> <br>
 
 [`[wordcloud]`](./NLP/wordcloud.pdf)
 
-2) 한국어 자연어처리 
+<p> 2) 한국어 자연어처리  </p>
 
 1. [`[KoNLP - 형태소 분리]`](./NLP/KoNLP1.pdf) <br>
 2. [`[KoNLP - Kkma, hannanum]`](./NLP/KoNLP2.pdf) 
