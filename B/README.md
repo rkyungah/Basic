@@ -23,6 +23,6 @@ Link: [link]
 <p> 1) MNIST </p>
 <br>
 
-[`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb)
-[`[TF_MNIST]`](./B/ML/TF_MNIST.ipynb)
+1. [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb) <br>
+2. [`[TF_MNIST]`](./B/ML/TF_MNIST.ipynb)
 
