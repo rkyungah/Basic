@@ -12,8 +12,9 @@
 </br> 
 
 ## ML
+<br>
 <p>  1) 로지스틱 회귀 Logistic Regression </p>
-[`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
+ [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 
 
 ### 예제 ###
