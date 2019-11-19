@@ -20,7 +20,7 @@ Link: [link]
 [Section NLP]: [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 
 
-### 예제
+### 예제 ###
 <p> 1) MNIST </p>
 <br>
 Link: [link]
