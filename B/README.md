@@ -8,8 +8,7 @@
 
 [`[KoNLP - 형태소 분리]`](./NLP/KoNLP1.pdf) 
 <br> 
-
-[NLP]: [`[KoNLP - Kkma, hannanum]`](./NLP/KoNLP2.pdf) 
+[`[KoNLP - Kkma, hannanum]`](./NLP/KoNLP2.pdf) 
 </br> 
 
 ## ML
@@ -24,6 +23,6 @@ Link: [link]
 <p> 1) MNIST </p>
 <br>
 
-Link: [link]
-[Section DL]: [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb)
+[`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb)
+[`[TF_MNIST]`](./B/ML/TF_MNIST.ipynb)
 
