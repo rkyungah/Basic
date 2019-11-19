@@ -6,8 +6,7 @@
 <br> 
 2) 한국어 자연어처리 <br> 
 
-1. [`[KoNLP - 형태소 분리]`](./NLP/KoNLP1.pdf) 
-<br> 
+1. [`[KoNLP - 형태소 분리]`](./NLP/KoNLP1.pdf) <br>
 2. [`[KoNLP - Kkma, hannanum]`](./NLP/KoNLP2.pdf) 
 </br> 
 
