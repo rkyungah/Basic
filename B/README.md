@@ -1,5 +1,5 @@
 ## NLP
-<p> 1) 자연어처리 NLP </p> <br>
+<p> 1) 자연어처리 NLP </p>
 
 [`[wordcloud]`](./NLP/wordcloud.pdf)
 
