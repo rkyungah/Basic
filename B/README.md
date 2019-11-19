@@ -16,6 +16,12 @@ Link: [link]
 ## ML
 <p>  1) 로지스틱 회귀 Logistic Regression </p>
 <br>
-
 Link: [link]
-[Section NLP]: [`[Logistic Regression]`](./B/ML/Logistic.pdf) 
+[Section NLP]: [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
+
+
+### 예제
+<p> 1) MNIST </p>
+Link: [link]
+[Section DL]: [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb)
+
