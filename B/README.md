@@ -18,8 +18,8 @@ Link: [link]
 [Section NLP]: [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 
 
-### 예제 ###
-
+#### 예제 ####
+<br>
 <p> 1) MNIST </p>
 
 1. [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb) <br>
