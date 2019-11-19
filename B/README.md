@@ -13,7 +13,6 @@
 
 ## ML
 <p>  1) 로지스틱 회귀 Logistic Regression </p>
-<br>
 [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 
 
