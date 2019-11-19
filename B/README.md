@@ -3,14 +3,14 @@
 <br>
 
 Link: [link]
-[NLP]: [[wordcloud]](./NLP/wordcloud.pdf) 
+[NLP]: [`[wordcloud]`](./NLP/wordcloud.pdf) 
 <br> 
 2) 한국어 자연어처리 <br> 
 Link: [link]
-[NLP]: [[KoNLP - 형태소 분리]](./NLP/KoNLP1.pdf) 
+[NLP]: [`[KoNLP - 형태소 분리]`](./NLP/KoNLP1.pdf) 
 <br> 
 Link: [link]
-[NLP]: [[KoNLP - Kkma, hannanum]](./NLP/KoNLP2.pdf) 
+[NLP]: [`[KoNLP - Kkma, hannanum]`](./NLP/KoNLP2.pdf) 
 </br> 
 
 ## ML
