@@ -14,11 +14,10 @@
 ## ML
 <p>  1) 로지스틱 회귀 Logistic Regression </p>
 <br>
-Link: [link]
-[Section NLP]: [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
+[`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 
 
-#### 예제 ####
+### 예제 ###
 <br>
 <p4> 1) MNIST </p4>
 
