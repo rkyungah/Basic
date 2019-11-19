@@ -20,7 +20,7 @@ Link: [link]
 
 #### 예제 ####
 <br>
-<p> 1) MNIST </p>
+<p4> 1) MNIST </p4>
 
 1. [`[CNN_MNIST]`](./B/ML/mnist심층신경망.ipynb) <br>
 2. [`[TF_MNIST]`](./B/ML/TF_MNIST.ipynb)
