@@ -11,7 +11,7 @@
 #### Section A
 
 Link: [link]
-[Section A]: [[베이직 문법 정리]](./A/INFO.md) 
+[Section A]: [[베이직 문법 정리]](./A/README.md) 
 <br>
 
 #### Public data 
