@@ -1,5 +1,5 @@
 # Basic 데이터 사이언스 스터디
-`[[LINK]](https://rkyungah.github.io/Basic.github.io/)`
+`[[LINK]]`(https://rkyungah.github.io/Basic.github.io/)
 
 ###  A
 파이썬으로 코드를 짜거나, 데이터를 다룰 때 기본적으로 익혀야하는 문법과 모듈을 위주로 정리해보았다. `pandas`와 `numpy` 시각화 모듈 중 `seaborn`과 `matplot` 그리고 그 외 파이썬을 운용하며 알아둬야하는 용법과 그 차이를 아는데 있어 실제 변수와 코드를 이용했다. <br> <br>
