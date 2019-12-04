@@ -1,8 +1,11 @@
 
 
-### title: "Web crawling"
+### Web crawling
 
 ```
-date: "2019-10-01 ~ 2019-11-28"
-categories: "basic"
+tool 
+
+1. selenium
+2. beautifulsoup
+
 ``` 
