@@ -9,6 +9,7 @@
 2. 기본 모듈 사용 (pandas, numpy)
 3. 시각화 (matplotlib, seaborn)
 4. DB 용어
+```
 
 #### Section A
 
