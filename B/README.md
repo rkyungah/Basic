@@ -18,10 +18,10 @@ Link: [link]
  
 <p>  2) Ridge & Lasso </p>
 
- [`[Ridge & Lasso]`](./ML/Ridge_Lasso.ipynb)  <br>
+ [`[Ridge & Lasso]`](./ML/Ridge_Lasso.ipynb)  <br> <br>
 
 
-#### 예제
+### 예제
 <br>
 <p4> 1) MNIST </p4>
 
