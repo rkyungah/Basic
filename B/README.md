@@ -17,7 +17,7 @@ Link: [link]
  [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
 <p>  2) Ridge & Lasso </p>
 
- [`[Ridge % Lasso]`](./B/ML/Ridge_Lasso.ipynb)
+ [`[Ridge & Lasso]`](./B/ML/Ridge_Lasso.ipynb)  <br>
 
 
 #### 예제
