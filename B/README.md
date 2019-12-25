@@ -15,9 +15,10 @@ Link: [link]
 <p>  1) 로지스틱 회귀 Logistic Regression </p>
 
  [`[Logistic Regression]`](./B/ML/Logistic.pdf) <br>
+ 
 <p>  2) Ridge & Lasso </p>
 
- [`[Ridge & Lasso]`](./B/ML/Ridge_Lasso.ipynb)  <br>
+ [`[Ridge & Lasso]`](./ML/Ridge_Lasso.ipynb)  <br>
 
 
 #### 예제
