@@ -22,6 +22,8 @@ Link: [link]
  
 <p>  3) Tensorflow </p>
 
+[`[tflinear]`](./ML/tensorflowlinear.pdf) <br> <br>
+
 
 ### 예제
 <br>
