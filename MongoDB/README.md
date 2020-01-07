@@ -7,7 +7,7 @@
 <br>
 
 # MongoDB basic
-Link: [link][MongoDB 기초 1] [MongoDB01](./MongoDB1.pdf) <br>
+Link: [link][MongoDB 기초 1] [[MongoDB01]](./MongoDB1.pdf) <br>
 Link: [link][MongoDB 기초 2] [MongoDB02](./MongoDB02.pdf) <br> <br>
 
 # MongoDB code 
