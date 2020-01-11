@@ -20,7 +20,7 @@ datetime, 정규표현식(RegEx), pandas, numpy, 리스트 튜플 딕셔너리 �
   4. [[seaborn 시각화]](./seaborn.pdf) <br> <br> 
 #### 4-1) Plot 실습 <br>
 1. [[네이버 영화 평점 TOP10 시각화 Quiz]](./영화평점TOP10시각화.pdf) <br>
-2. [[Seaborn 시각화]](./code/seaborn.ipynb) <br>
+2. 
 <br>
 
 #### 5) Class <br>
